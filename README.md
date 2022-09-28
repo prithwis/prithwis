@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prithwis : Engineer : Coder : Teacher : Author
+- 👋 Hi, I’m @prithwis : Engineer : Programmer : Teacher : Author
 - 👀 You can look up my website [Yantrajaal](http://www.yantrajaal.com)
 - 🌱 Or read my [Blog](http://blog.yantrajaal.com)
 - 💞️ For a professional CV look up my profile in [LinkedIn](http://www.linkedin.com/in/prithwis)
