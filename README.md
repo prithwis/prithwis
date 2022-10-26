@@ -4,6 +4,7 @@
 - 💞️ For a professional CV look up my profile in [LinkedIn](http://www.linkedin.com/in/prithwis)
 - ✍️ I have recently written two text books, on '[Python](https://pymanager.blogspot.com/p/welcome.html) for Business Managers' and on 'AI and [Deep Learning](https://aidl4managers.blogspot.com/p/home.html) for Business Managers'<br>
 - 📫 But what is really interesting are my SciFi novels [Chronotantra, Chronoyantra](http://bit.ly/chronobooks)<br>
+***
 ![ikigai](/ikigai.png)<br>
 ![CV](/CV_Creative_2021.png)<br>
 <!---
