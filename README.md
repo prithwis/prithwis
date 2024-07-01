@@ -6,7 +6,6 @@
 - 📫 But what is really interesting are my SciFi novels [Chronotantra, Chronoyantra](http://bit.ly/chronobooks)<br>
 ***
 ![ikigai](/ikigai.png)<br>
-![CV](/CV_Creative_2021.png)<br>
 <!---
 prithwis/prithwis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
